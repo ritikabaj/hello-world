@@ -1,0 +1,35 @@
+[
+  {
+    "value": "skirt",
+    "synonyms": [
+      "skirt"
+    ]
+  },
+  {
+    "value": "top",
+    "synonyms": [
+      "top"
+    ]
+  },
+  {
+    "value": "jeans",
+    "synonyms": [
+      "jeans",
+      "pants",
+      "trouser"
+    ]
+  },
+  {
+    "value": "jacket",
+    "synonyms": [
+      "jacket"
+    ]
+  },
+  {
+    "value": "shorts",
+    "synonyms": [
+      "shorts",
+      "bermuda"
+    ]
+  }
+]

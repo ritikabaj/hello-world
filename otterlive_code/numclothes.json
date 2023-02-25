@@ -1,0 +1,9 @@
+{
+  "id": "141ce558-0439-4186-b276-095a7b1c8a4b",
+  "name": "numclothes",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

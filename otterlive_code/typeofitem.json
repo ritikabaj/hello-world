@@ -1,0 +1,9 @@
+{
+  "id": "21288ddb-7b33-4524-bc7d-175ef47ca8db",
+  "name": "typeofitem",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}
