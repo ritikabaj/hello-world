@@ -1,0 +1,35 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "OtterLiveBot",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Hong_Kong",
+  "webhook": {
+    "url": "https://dbc8-202-83-111-226.ap.ngrok.io",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "1a7207bfbd3941c7a6ec7c7aeb02e409",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
