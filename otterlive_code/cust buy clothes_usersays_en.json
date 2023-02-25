@@ -1,0 +1,59 @@
+[
+  {
+    "id": "bf05dd7c-bc23-4504-8dac-0f53db2cc25a",
+    "data": [
+      {
+        "text": "i want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "jeans",
+        "meta": "@typeofitem",
+        "alias": "typeofitem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b84dbb73-3b5e-4cbe-b644-177e288648fa",
+    "data": [
+      {
+        "text": "i want to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "shirt",
+        "meta": "@typeofitem",
+        "alias": "typeofitem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79df8ce8-b2d0-4ba7-b597-5fffd751c948",
+    "data": [
+      {
+        "text": "i want to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@typeofitem",
+        "alias": "typeofitem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

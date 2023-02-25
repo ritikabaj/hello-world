@@ -1,0 +1,54 @@
+{
+  "id": "7f03e672-cfa3-42e1-8b12-3b58d65e08b0",
+  "parentId": "61cf0ce8-63c0-49d2-a517-09a36d7d2918",
+  "rootParentId": "61cf0ce8-63c0-49d2-a517-09a36d7d2918",
+  "name": "cust buy clothes - custom",
+  "auto": true,
+  "contexts": [
+    "custbuyclothes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custbuyclothes.custbuyclothes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f6650067-2b85-4e4e-a2ae-808e7ca879bb",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Added to cart :)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

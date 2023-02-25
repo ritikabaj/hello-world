@@ -1,0 +1,55 @@
+{
+  "id": "61cf0ce8-63c0-49d2-a517-09a36d7d2918",
+  "name": "cust buy clothes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "custbuyclothes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f4b9811f-181e-44a2-a802-1658526712ae",
+          "name": "typeofitem",
+          "required": false,
+          "dataType": "@typeofitem",
+          "value": "$typeofitem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure, how many would you like?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
